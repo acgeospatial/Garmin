@@ -7,4 +7,5 @@ If you use a Garmin activity tracker, like a sports watch, and have a Garmin con
 # Series of blogs
 1. [Getting routes from garmin connect to qgis](http://www.acgeospatial.co.uk/getting-routes-from-garmin-connect-to-qgis/)
 2. [Getting track from garmin connect to postgis](http://www.acgeospatial.co.uk/getting-tracks-from-garmin-connect-to-postgis/)
+3. [Updating postgis each time](https://www.acgeospatial.co.uk/update-postgis-database-garmin-connect/)
 
