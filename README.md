@@ -9,6 +9,7 @@ If you use a Garmin activity tracker, like a sports watch, and have a Garmin con
 2. [Getting track from garmin connect to postgis](http://www.acgeospatial.co.uk/getting-tracks-from-garmin-connect-to-postgis/)
 3. [Updating postgis each time](https://www.acgeospatial.co.uk/update-postgis-database-garmin-connect/)
 4. [Loading activities.csv and joining to tracks](https://www.acgeospatial.co.uk/garmin-connect-to-postgis-and-join-activity/)
+5. [visualise in kepler.gl](https://www.acgeospatial.co.uk/kepler-gl-in-jupyter-lab-and-postgis/)
 
 # code
 The code in this repo is related to the blogs 01_ represents code in 1 etc
